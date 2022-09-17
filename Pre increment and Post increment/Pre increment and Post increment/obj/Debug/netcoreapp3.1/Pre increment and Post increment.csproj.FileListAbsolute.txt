@@ -1,0 +1,14 @@
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\obj\Debug\netcoreapp3.1\Pre increment and Post increment.csproj.AssemblyReference.cache
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\obj\Debug\netcoreapp3.1\Pre increment and Post increment.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\obj\Debug\netcoreapp3.1\Pre increment and Post increment.AssemblyInfoInputs.cache
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\obj\Debug\netcoreapp3.1\Pre increment and Post increment.AssemblyInfo.cs
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\obj\Debug\netcoreapp3.1\Pre increment and Post increment.csproj.CoreCompileInputs.cache
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\bin\Debug\netcoreapp3.1\Pre increment and Post increment.exe
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\bin\Debug\netcoreapp3.1\Pre increment and Post increment.deps.json
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\bin\Debug\netcoreapp3.1\Pre increment and Post increment.runtimeconfig.json
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\bin\Debug\netcoreapp3.1\Pre increment and Post increment.runtimeconfig.dev.json
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\bin\Debug\netcoreapp3.1\Pre increment and Post increment.dll
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\bin\Debug\netcoreapp3.1\Pre increment and Post increment.pdb
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\obj\Debug\netcoreapp3.1\Pre increment and Post increment.dll
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\obj\Debug\netcoreapp3.1\Pre increment and Post increment.pdb
+D:\repos\Pre increment and Post increment\Pre increment and Post increment\obj\Debug\netcoreapp3.1\Pre increment and Post increment.genruntimeconfig.cache
