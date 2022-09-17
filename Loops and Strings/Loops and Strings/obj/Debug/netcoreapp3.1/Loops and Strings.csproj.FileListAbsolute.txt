@@ -1,0 +1,14 @@
+D:\repos\Loops and Strings\Loops and Strings\bin\Debug\netcoreapp3.1\Loops and Strings.exe
+D:\repos\Loops and Strings\Loops and Strings\bin\Debug\netcoreapp3.1\Loops and Strings.deps.json
+D:\repos\Loops and Strings\Loops and Strings\bin\Debug\netcoreapp3.1\Loops and Strings.runtimeconfig.json
+D:\repos\Loops and Strings\Loops and Strings\bin\Debug\netcoreapp3.1\Loops and Strings.runtimeconfig.dev.json
+D:\repos\Loops and Strings\Loops and Strings\bin\Debug\netcoreapp3.1\Loops and Strings.dll
+D:\repos\Loops and Strings\Loops and Strings\bin\Debug\netcoreapp3.1\Loops and Strings.pdb
+D:\repos\Loops and Strings\Loops and Strings\obj\Debug\netcoreapp3.1\Loops and Strings.csproj.AssemblyReference.cache
+D:\repos\Loops and Strings\Loops and Strings\obj\Debug\netcoreapp3.1\Loops and Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Loops and Strings\Loops and Strings\obj\Debug\netcoreapp3.1\Loops and Strings.AssemblyInfoInputs.cache
+D:\repos\Loops and Strings\Loops and Strings\obj\Debug\netcoreapp3.1\Loops and Strings.AssemblyInfo.cs
+D:\repos\Loops and Strings\Loops and Strings\obj\Debug\netcoreapp3.1\Loops and Strings.csproj.CoreCompileInputs.cache
+D:\repos\Loops and Strings\Loops and Strings\obj\Debug\netcoreapp3.1\Loops and Strings.dll
+D:\repos\Loops and Strings\Loops and Strings\obj\Debug\netcoreapp3.1\Loops and Strings.pdb
+D:\repos\Loops and Strings\Loops and Strings\obj\Debug\netcoreapp3.1\Loops and Strings.genruntimeconfig.cache

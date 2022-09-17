@@ -1,0 +1,14 @@
+D:\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+D:\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+D:\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+D:\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+D:\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+D:\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+D:\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.AssemblyReference.cache
+D:\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+D:\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+D:\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+D:\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+D:\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+D:\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache

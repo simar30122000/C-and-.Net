@@ -1,0 +1,14 @@
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

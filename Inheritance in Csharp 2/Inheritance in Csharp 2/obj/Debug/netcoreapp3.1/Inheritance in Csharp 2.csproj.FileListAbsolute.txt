@@ -1,0 +1,14 @@
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\bin\Debug\netcoreapp3.1\Inheritance in Csharp 2.exe
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\bin\Debug\netcoreapp3.1\Inheritance in Csharp 2.deps.json
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\bin\Debug\netcoreapp3.1\Inheritance in Csharp 2.runtimeconfig.json
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\bin\Debug\netcoreapp3.1\Inheritance in Csharp 2.runtimeconfig.dev.json
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\bin\Debug\netcoreapp3.1\Inheritance in Csharp 2.dll
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\bin\Debug\netcoreapp3.1\Inheritance in Csharp 2.pdb
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\obj\Debug\netcoreapp3.1\Inheritance in Csharp 2.csproj.AssemblyReference.cache
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\obj\Debug\netcoreapp3.1\Inheritance in Csharp 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\obj\Debug\netcoreapp3.1\Inheritance in Csharp 2.AssemblyInfoInputs.cache
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\obj\Debug\netcoreapp3.1\Inheritance in Csharp 2.AssemblyInfo.cs
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\obj\Debug\netcoreapp3.1\Inheritance in Csharp 2.csproj.CoreCompileInputs.cache
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\obj\Debug\netcoreapp3.1\Inheritance in Csharp 2.dll
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\obj\Debug\netcoreapp3.1\Inheritance in Csharp 2.pdb
+D:\repos\Inheritance in Csharp 2\Inheritance in Csharp 2\obj\Debug\netcoreapp3.1\Inheritance in Csharp 2.genruntimeconfig.cache

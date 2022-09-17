@@ -1,0 +1,14 @@
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects2.csproj.AssemblyReference.cache
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects2.AssemblyInfoInputs.cache
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects2.AssemblyInfo.cs
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects2.csproj.CoreCompileInputs.cache
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects2.exe
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects2.deps.json
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects2.runtimeconfig.json
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects2.runtimeconfig.dev.json
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects2.dll
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects2.pdb
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects2.dll
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects2.pdb
+D:\repos\Classes,Constructors,Objects2\Classes,Constructors,Objects2\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\obj\Debug\netcoreapp3.1\Compile Time Polymorphism.csproj.AssemblyReference.cache
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\obj\Debug\netcoreapp3.1\Compile Time Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\obj\Debug\netcoreapp3.1\Compile Time Polymorphism.AssemblyInfoInputs.cache
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\obj\Debug\netcoreapp3.1\Compile Time Polymorphism.AssemblyInfo.cs
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\obj\Debug\netcoreapp3.1\Compile Time Polymorphism.csproj.CoreCompileInputs.cache
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\bin\Debug\netcoreapp3.1\Compile Time Polymorphism.exe
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\bin\Debug\netcoreapp3.1\Compile Time Polymorphism.deps.json
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\bin\Debug\netcoreapp3.1\Compile Time Polymorphism.runtimeconfig.json
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\bin\Debug\netcoreapp3.1\Compile Time Polymorphism.runtimeconfig.dev.json
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\bin\Debug\netcoreapp3.1\Compile Time Polymorphism.dll
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\bin\Debug\netcoreapp3.1\Compile Time Polymorphism.pdb
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\obj\Debug\netcoreapp3.1\Compile Time Polymorphism.dll
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\obj\Debug\netcoreapp3.1\Compile Time Polymorphism.pdb
+D:\repos\Compile Time Polymorphism\Compile Time Polymorphism\obj\Debug\netcoreapp3.1\Compile Time Polymorphism.genruntimeconfig.cache

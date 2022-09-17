@@ -1,0 +1,14 @@
+D:\repos\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.exe
+D:\repos\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.deps.json
+D:\repos\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.runtimeconfig.json
+D:\repos\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.runtimeconfig.dev.json
+D:\repos\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.dll
+D:\repos\Array2\Array2\bin\Debug\netcoreapp3.1\Array2.pdb
+D:\repos\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.csproj.AssemblyReference.cache
+D:\repos\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.AssemblyInfoInputs.cache
+D:\repos\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.AssemblyInfo.cs
+D:\repos\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.csproj.CoreCompileInputs.cache
+D:\repos\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.dll
+D:\repos\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.pdb
+D:\repos\Array2\Array2\obj\Debug\netcoreapp3.1\Array2.genruntimeconfig.cache

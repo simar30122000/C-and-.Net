@@ -1,0 +1,14 @@
+D:\repos\Exception handling -Person class\Exception handling -Person class\bin\Debug\netcoreapp3.1\Exception handling -Person class.exe
+D:\repos\Exception handling -Person class\Exception handling -Person class\bin\Debug\netcoreapp3.1\Exception handling -Person class.deps.json
+D:\repos\Exception handling -Person class\Exception handling -Person class\bin\Debug\netcoreapp3.1\Exception handling -Person class.runtimeconfig.json
+D:\repos\Exception handling -Person class\Exception handling -Person class\bin\Debug\netcoreapp3.1\Exception handling -Person class.runtimeconfig.dev.json
+D:\repos\Exception handling -Person class\Exception handling -Person class\bin\Debug\netcoreapp3.1\Exception handling -Person class.dll
+D:\repos\Exception handling -Person class\Exception handling -Person class\bin\Debug\netcoreapp3.1\Exception handling -Person class.pdb
+D:\repos\Exception handling -Person class\Exception handling -Person class\obj\Debug\netcoreapp3.1\Exception handling -Person class.csproj.AssemblyReference.cache
+D:\repos\Exception handling -Person class\Exception handling -Person class\obj\Debug\netcoreapp3.1\Exception handling -Person class.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Exception handling -Person class\Exception handling -Person class\obj\Debug\netcoreapp3.1\Exception handling -Person class.AssemblyInfoInputs.cache
+D:\repos\Exception handling -Person class\Exception handling -Person class\obj\Debug\netcoreapp3.1\Exception handling -Person class.AssemblyInfo.cs
+D:\repos\Exception handling -Person class\Exception handling -Person class\obj\Debug\netcoreapp3.1\Exception handling -Person class.csproj.CoreCompileInputs.cache
+D:\repos\Exception handling -Person class\Exception handling -Person class\obj\Debug\netcoreapp3.1\Exception handling -Person class.dll
+D:\repos\Exception handling -Person class\Exception handling -Person class\obj\Debug\netcoreapp3.1\Exception handling -Person class.pdb
+D:\repos\Exception handling -Person class\Exception handling -Person class\obj\Debug\netcoreapp3.1\Exception handling -Person class.genruntimeconfig.cache

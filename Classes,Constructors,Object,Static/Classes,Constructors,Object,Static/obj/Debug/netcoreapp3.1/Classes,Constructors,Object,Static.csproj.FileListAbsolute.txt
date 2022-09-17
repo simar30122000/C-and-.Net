@@ -1,0 +1,14 @@
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\bin\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.exe
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\bin\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.deps.json
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\bin\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.runtimeconfig.json
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\bin\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.runtimeconfig.dev.json
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\bin\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.dll
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\bin\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.pdb
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\obj\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.csproj.AssemblyReference.cache
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\obj\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\obj\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.AssemblyInfoInputs.cache
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\obj\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.AssemblyInfo.cs
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\obj\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.csproj.CoreCompileInputs.cache
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\obj\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.dll
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\obj\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.pdb
+D:\repos\Classes,Constructors,Object,Static\Classes,Constructors,Object,Static\obj\Debug\netcoreapp3.1\Classes,Constructors,Object,Static.genruntimeconfig.cache

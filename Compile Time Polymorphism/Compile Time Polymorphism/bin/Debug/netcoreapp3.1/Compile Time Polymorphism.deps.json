@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Compile Time Polymorphism/1.0.0": {
+        "runtime": {
+          "Compile Time Polymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compile Time Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

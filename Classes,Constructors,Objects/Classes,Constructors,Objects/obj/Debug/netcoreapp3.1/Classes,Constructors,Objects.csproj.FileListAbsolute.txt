@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects.exe
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects.deps.json
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects.runtimeconfig.json
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects.runtimeconfig.dev.json
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects.dll
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\bin\Debug\netcoreapp3.1\Classes,Constructors,Objects.pdb
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects.AssemblyInfo.cs
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects.dll
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects.pdb
+C:\Users\User\source\repos\Classes,Constructors,Objects\Classes,Constructors,Objects\obj\Debug\netcoreapp3.1\Classes,Constructors,Objects.genruntimeconfig.cache
